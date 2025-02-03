@@ -3,7 +3,7 @@
 
 ## My Small Introduction
 
-Hi there! I'm Bhaskar, a **Staff Data Scientist/AI Engineer** at **Accelerate People**. I specialize in **machine learning, AI, and data analytics**, with a strong background in optimizing data pipelines, predictive modeling, and AI-driven insights. I have worked on **education assessment solutions, mortgage analytics, and enterprise AI chatbots**.
+Hi there! I'm Bhaskar, a **Staff Data Scientist/AI Engineer** at **[Accelerate People](https://www.accelerate-people.co.uk/)**. I specialize in **machine learning, AI, and data analytics**, with a strong background in optimizing data pipelines, predictive modeling, and AI-driven insights. I have worked on **education assessment solutions, mortgage analytics, and enterprise AI chatbots**.
 
 In my free time, I enjoy **exploring economic trends, learning new AI techniques, and working on data-driven policy research**. My current aspiration is to **combine AI with economic policy and work with organizations like the United Nations (UN)**.
 
@@ -13,7 +13,7 @@ In my free time, I enjoy **exploring economic trends, learning new AI techniques
 - 💼 You can contact me at: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-kumar-/)
 - 🌱 I'm currently learning **differential calculus, financial data science, Agentic Workflows and deep learning**
 - 👯 I'm looking to collaborate on **AI for policy analysis, economic modeling, education and automation**
-- 🚀 Current project: **Developing AI-driven insights for employment assessments and financial analytics**
+- 🚀 Current project: **Developing AI-driven insights for endpoint assessments and financial analytics**
 - ⚡ Fun fact: **I reduced assessment time from 3 days to 3 hours using AI!(For an UK Based EPAO)**
 
 ## Skills
