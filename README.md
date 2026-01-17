@@ -1,36 +1,106 @@
+# Hi, I'm Bhaskar Kumar 👋  
+### AI / ML Engineer | Generative AI | Agentic AI | Production ML Systems
 
-# Hi, I'm Bhaskar 👋
+I’m an **AI / ML Engineer with 2.5+ years of hands-on experience** building **production-grade AI systems** across **Machine Learning, NLP, Generative AI, and Agentic AI**.  
+I specialize in taking AI solutions **from idea → prototype → scalable production**.
 
-## My Small Introduction
+Currently, I work as a **Specialist, Software Engineering (Data & AI)** at **Accelerate People (Blenheim Chalcot)**, where I design and deploy **LLM-powered, agentic, and multimodal AI systems** used at scale.
 
-Hi there! I'm Bhaskar, a **Staff Data Scientist/AI Engineer** at **[Accelerate People](https://www.accelerate-people.co.uk/)**. I specialize in **machine learning, AI, and data analytics**, with a strong background in optimizing data pipelines, predictive modeling, and AI-driven insights. I have worked on **education assessment solutions, mortgage analytics, and enterprise AI chatbots**.
+---
 
-In my free time, I enjoy **exploring economic trends, learning new AI techniques, and working on data-driven policy research**. My current aspiration is to **combine AI with economic policy and work with organizations like the United Nations (UN)**.
+## 🚀 What I Work On
 
-### 🌍 Current Status
+- **Agentic AI & RAG Systems** (LangChain, LangGraph, AutoGen)
+- **LLM-based Applications** (OpenAI, Azure-hosted models)
+- **Production ML Systems** (FastAPI, Docker, CI/CD)
+- **Multimodal AI** (OCR, Vision Transformers, NLP)
+- **MLOps** (model monitoring, drift detection, retraining pipelines)
+- **Cloud AI Platforms** (Azure, AWS)
 
-- 📍 I'm based in **Mumbai, India**
-- 💼 You can contact me at: [![LinkedIn Badge](https://img.shields.io/badge/-LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhaskar-kumar-/)
-- 🌱 I'm currently learning **differential calculus, financial data science, Agentic Workflows and deep learning**
-- 👯 I'm looking to collaborate on **AI for policy analysis, economic modeling, education and automation**
-- 🚀 Current project: **Developing AI-driven insights for endpoint assessments and financial analytics**
-- ⚡ Fun fact: **I reduced assessment time from 3 days to 3 hours using AI!(For an UK Based EPAO)**
+📌 **Impact Highlight:**  
+Reduced assessment turnaround time from **72 hours to under 3 hours** by architecting an AI-backed assessment platform used by the **UK’s largest apprenticeship body**.
 
-## Skills
+---
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=postgresql&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Machine%20Learning-FF6F00?style=for-the-badge&logo=scikitlearn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Azure%20AI-0089D6?style=for-the-badge&logo=microsoftazure&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Power%20BI-F2C811?style=for-the-badge&logo=powerbi&logoColor=black"/>
-</p>
+## 💼 Current Role
 
-## Socials
+**Specialist, Software Engineering (Data & AI)**  
+📍 *Accelerate People (Blenheim Chalcot)* | Mumbai, India  
 
-<p align="left">
-  <a href="https://github.com/Bprs68" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/></a>
-  <a href="https://medium.com/@bhaskards6869" target="_blank"><img src="https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white"/></a>
-</p>
+- Architected **LLM-powered and Agentic RAG systems** enabling natural-language analytics
+- Built **scalable inference microservices** using FastAPI, Docker, and cloud platforms
+- Fine-tuned LLMs using **prompt tuning & LoRA**, improving accuracy by **40%**
+- Designed **multimodal AI pipelines** improving contextual extraction accuracy by **65%**
+- Implemented **MLOps workflows** (monitoring, drift detection, CI/CD)
+- Delivered AI solutions processing **thousands of assessments monthly**
 
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=bprs68&show_icons=true&theme=dark)
+---
+
+## 🧠 Technical Skills
+
+### Programming & Backend
+- **Python**, SQL, R
+- FastAPI, Flask
+- Git, Docker
+
+### Machine Learning & AI
+- PyTorch, TensorFlow, Scikit-learn
+- NLP, Statistical Learning
+- Supervised, Unsupervised & Reinforcement Learning
+
+### Generative AI & Agentic Systems
+- LLMs (OpenAI, Azure-hosted)
+- **RAG & Agentic RAG**
+- LangChain, LangGraph, LlamaIndex, AutoGen
+- Prompt & Context Engineering
+- Embeddings & Vector Search
+
+### Cloud, Data & MLOps
+- Azure (ML, Data Factory, AI Search)
+- AWS (S3, Lambda)
+- CI/CD pipelines, Model monitoring
+- PostgreSQL, MongoDB
+
+### Analytics & BI
+- Power BI, Tableau
+- Data validation & pipeline optimization
+
+---
+
+## 📂 Featured Work (Repositories)
+
+Some of my repositories focus on:
+- 🔹 **LLM-based chat systems & RAG pipelines**
+- 🔹 **Agentic AI workflows**
+- 🔹 **ML / NLP experimentation**
+- 🔹 **Production-ready API services**
+- 🔹 **Local open-source LLM setups (Ollama, OpenWebUI)**
+
+👉 Explore here: **https://github.com/Bprs68?tab=repositories**
+
+---
+
+## 🌱 Currently Exploring
+- Advanced **Agentic AI patterns**
+- **Evaluation frameworks for LLMs**
+- Cost optimization & latency tuning for GenAI systems
+- Knowledge Graphs + RAG
+
+---
+
+## 🤝 Open To
+- AI / ML Engineer roles
+- Generative AI & Agentic AI projects
+- Production ML & MLOps challenges
+- Open-source collaboration
+
+---
+
+## 📫 Connect With Me
+
+- 🔗 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-/
+- ✉️ Email: bhaskards6869@gmail.com
+
+---
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bprs68&show_icons=true&theme=dark)
