@@ -88,6 +88,20 @@ Some of my repositories focus on:
 
 ---
 
+## ✍️ Writing & Blogs
+
+I regularly write about **AI engineering, Generative AI, Agentic systems, and production ML**—sharing practical insights from real-world deployments.
+
+- 📝 Medium: https://medium.com/@bhaskards6869
+
+Topics I write about:
+- LLMs, RAG & Agentic AI
+- Production ML & MLOps
+- Debugging & system design for AI
+- Open-source AI tooling (Ollama, OpenWebUI, MCP)
+
+---
+
 ## 🤝 Open To
 - AI / ML Engineer roles
 - Generative AI & Agentic AI projects
@@ -100,7 +114,3 @@ Some of my repositories focus on:
 
 - 🔗 LinkedIn: https://www.linkedin.com/in/bhaskar-kumar-/
 - ✉️ Email: bhaskards6869@gmail.com
-
----
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Bprs68&show_icons=true&theme=dark)
